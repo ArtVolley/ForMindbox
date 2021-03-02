@@ -1,0 +1,16 @@
+C:\Users\Артем\source\repos\TestExe\TestExe\bin\Debug\netcoreapp3.1\TestExe.exe
+C:\Users\Артем\source\repos\TestExe\TestExe\bin\Debug\netcoreapp3.1\TestExe.deps.json
+C:\Users\Артем\source\repos\TestExe\TestExe\bin\Debug\netcoreapp3.1\TestExe.runtimeconfig.json
+C:\Users\Артем\source\repos\TestExe\TestExe\bin\Debug\netcoreapp3.1\TestExe.runtimeconfig.dev.json
+C:\Users\Артем\source\repos\TestExe\TestExe\bin\Debug\netcoreapp3.1\TestExe.dll
+C:\Users\Артем\source\repos\TestExe\TestExe\bin\Debug\netcoreapp3.1\TestExe.pdb
+C:\Users\Артем\source\repos\TestExe\TestExe\obj\Debug\netcoreapp3.1\TestExe.csprojAssemblyReference.cache
+C:\Users\Артем\source\repos\TestExe\TestExe\obj\Debug\netcoreapp3.1\TestExe.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\TestExe\TestExe\obj\Debug\netcoreapp3.1\TestExe.AssemblyInfo.cs
+C:\Users\Артем\source\repos\TestExe\TestExe\obj\Debug\netcoreapp3.1\TestExe.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\TestExe\TestExe\obj\Debug\netcoreapp3.1\TestExe.dll
+C:\Users\Артем\source\repos\TestExe\TestExe\obj\Debug\netcoreapp3.1\TestExe.pdb
+C:\Users\Артем\source\repos\TestExe\TestExe\obj\Debug\netcoreapp3.1\TestExe.genruntimeconfig.cache
+C:\Users\Артем\source\repos\TestExe\TestExe\bin\Debug\netcoreapp3.1\figureSquare.dll
+C:\Users\Артем\source\repos\TestExe\TestExe\bin\Debug\netcoreapp3.1\figureSquare.pdb
+C:\Users\Артем\source\repos\TestExe\TestExe\obj\Debug\netcoreapp3.1\TestExe.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\Артем\source\repos\TestExe\figureSquare\bin\Debug\netcoreapp3.1\figureSquare.deps.json
+C:\Users\Артем\source\repos\TestExe\figureSquare\bin\Debug\netcoreapp3.1\figureSquare.dll
+C:\Users\Артем\source\repos\TestExe\figureSquare\bin\Debug\netcoreapp3.1\figureSquare.pdb
+C:\Users\Артем\source\repos\TestExe\figureSquare\obj\Debug\netcoreapp3.1\figureSquare.csprojAssemblyReference.cache
+C:\Users\Артем\source\repos\TestExe\figureSquare\obj\Debug\netcoreapp3.1\figureSquare.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\TestExe\figureSquare\obj\Debug\netcoreapp3.1\figureSquare.AssemblyInfo.cs
+C:\Users\Артем\source\repos\TestExe\figureSquare\obj\Debug\netcoreapp3.1\figureSquare.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\TestExe\figureSquare\obj\Debug\netcoreapp3.1\figureSquare.dll
+C:\Users\Артем\source\repos\TestExe\figureSquare\obj\Debug\netcoreapp3.1\figureSquare.pdb
